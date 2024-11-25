@@ -16,7 +16,7 @@ La aplicación web puede ser definida como una enciclopedia de creadores de cont
 6. Encontrar los correspondientes enlaces a las redes sociales de cada creador de contenido.
      
 
-- **Teconologías empleadas**
+- **Tecnologías empleadas**
 ```
 Entre las tecnologías empleadas destacan los lenguajes de marcas, los cuales son sistemas que utilizan etiquetas
 para estructurar, organizar o describir contenido dentro de los documentos; es decir, dichas etiquetas o marcas
