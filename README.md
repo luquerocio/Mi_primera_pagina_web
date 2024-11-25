@@ -18,9 +18,9 @@ La aplicación web puede ser definida como una enciclopedia de creadores de cont
 
 - **Teconologías empleadas**
 ```
-Entre las tecnologías empleadas destacan los lenguajes de marcas, los cuales son sistemas que utilizan etiquetas para
-estructurar, organizar o describir contenido dentro de los documentos; es decir, dichas etiquetas o marcas proporcionan
-instrucciones sobre cómo presentar la información.
+Entre las tecnologías empleadas destacan los lenguajes de marcas, los cuales son sistemas que utilizan etiquetas
+para estructurar, organizar o describir contenido dentro de los documentos; es decir, dichas etiquetas o marcas
+proporcionan instrucciones sobre cómo presentar la información.
 ```
   **1. HTML5**: es el lenguaje de marca más extendido para la estructuración de contenido web por su amplio soporte en navegadores
 y su fácil aprendizaje. En este caso, estoy empleando la versión HTML5 por las siguientes ventajas:
